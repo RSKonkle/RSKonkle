@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Reagan.
-- 👀 I’m interested in video games and sports mostly. I'm a big statistics guy and have been following the NBA, NFL, and NHL for a couple years now.
-- 🌱 I’m currently learning full-stack development through The Odin Project.
-- 💞️ I’m looking to collaborate on sports data projects and indie game devlopment.
+🌲 ### A Work in Progress ### 🍃
+
+This GitHub is where I’m collecting web design projects as I make my way through [The Odin Project](https://www.theodinproject.com/). 
+It’s a mix of small experiments, learning exercises, and creative problem-solving—basically, a snapshot of my journey into web development.
+
+🎯 ### Current Focus ### 🐠
+
+- Exploring front-end design with HTML, CSS, and JavaScript.
+- Tackling challenges and projects that push my skills further.
+- Building a foundation for bigger and more polished works.
+
+📌 ### What’s Next ### 🎵
+
+This space will evolve as I move on to more ambitious projects and expand my skillset. For now, feel free to look around—there’s more to come. 👀
 
 <!---
 RSKonkle/RSKonkle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
